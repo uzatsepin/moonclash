@@ -57,7 +57,11 @@ export default function Footer() {
 
                         <textarea
                             placeholder="Your message"
+<<<<<<< HEAD
                             className="appearance-none border-[3px] border-[#A32F30] rounded-3xl lg:rounded-[40px] w-full py-[8px] lg:py-[14px] px-4 lg:px-8 text-gray focus:outline-none text-md lg:text-2xl leading-[30px] bg-transparent outline-none focus:border-[#E95141] transition-all duration-300 h-[150px] lg:h-[180px] resize-none"></textarea>
+=======
+                            className="appearance-none border-[3px] border-[#A32F30] rounded-3xl lg:rounded-full w-full py-[8px] lg:py-[14px] px-4 lg:px-8 text-gray focus:outline-none text-md lg:text-2xl leading-[30px] bg-transparent outline-none focus:border-[#E95141] transition-all duration-300 h-[150px]"></textarea>
+>>>>>>> 9c4ccea96026ef822090ecf9fbfb840d2cea0627
 
                         <div className="flex gap-4 lg:gap-[22px] items-center mt-6 lg:mt-20">
                             <PrimaryButton text="Submit" />

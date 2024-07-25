@@ -88,10 +88,6 @@ export default function Tokenomics() {
                         cardNum="7"
                         name="DeFi and Gaming Bonuses"
                         descr="10% (55,554,764 MCLSH)"
-<<<<<<< HEAD
-=======
-                        className="col-span-3 flex justify-center"
->>>>>>> 9c4ccea96026ef822090ecf9fbfb840d2cea0627
                     />
 
                     <motion.div variants={fadeIn("down", 0.2)}

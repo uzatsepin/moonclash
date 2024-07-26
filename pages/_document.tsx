@@ -10,7 +10,7 @@ export default function Document() {
         <meta property="og:title" content="MoonClash – A Cryptocurrency Saga" />
         <meta property="og:description" content="MoonClash (MCLSH) is more than just a memecoin. It is an epic story of ambition, innovation, and power that can transform the world of cryptocurrency. Join us on this exciting journey and become part of a new era in financial technology." />
         <meta property="og:image" content="/preview.png" />
-        <meta property="og:url" content="https://www.yourwebsite.com" />
+        <meta property="og:url" content="https://moonclash.top" />
         {/* <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:site" content="@your_twitter_handle" /> */}
         <meta name="twitter:title" content="MoonClash – A Cryptocurrency Saga" />

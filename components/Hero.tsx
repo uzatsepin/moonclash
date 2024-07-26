@@ -15,7 +15,7 @@ export default function Hero() {
 
     return (
         <div>
-            <div className="container relative min-h-[80vh] flex flex-col justify-between">
+            <div className="container relative min-h-[70vh] flex flex-col justify-between">
                 <motion.div
                     variants={fadeIn("down", 0.3)}
                     initial="hidden"

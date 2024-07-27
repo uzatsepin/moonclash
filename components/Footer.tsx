@@ -178,21 +178,21 @@ export default function Footer() {
                             width={60}
                             height={60}
                             alt="X logo"
-                            link="#"
+                            link="https://x.com/moonclash_coin"
                         />
                         <SocialItem
                             src="/tg-logo.svg"
                             width={60}
                             height={60}
                             alt="Telegram logo"
-                            link="#"
+                            link="https://t.me/moonclash_coin"
                         />
                         <SocialItem
                             src="/dex-logo.svg"
                             width={51}
                             height={60}
                             alt="DEX-Tools logo"
-                            link="#"
+                            link="https://pump.fun/5nxYYE2ADShm6nELhwTKkdz3kuZBvgtgmSHWFYipump"
                         />
                     </div>
                 </div>

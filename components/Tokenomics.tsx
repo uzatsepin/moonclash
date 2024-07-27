@@ -39,7 +39,7 @@ export default function Tokenomics() {
                         />
                         <TokenomicsItems
                             name="Total Supply"
-                            descr="555,547,646 MCLSH"
+                            descr="1,000,000,000 MCLSH"
                         />
                     </div>
                 </div>
@@ -51,43 +51,43 @@ export default function Tokenomics() {
                     <TokenomicsCard
                         cardNum="1"
                         name="Startup Round and Early Investors"
-                        descr="10% (55,554,764 MCLSH)"
+                        descr="10% (100,000,000 MCLSH)"
                     />
                     <TokenomicsCard
                         cardNum="2"
                         name="Team and Advisors"
-                        descr="15% (83,332,147 MCLSH)"
+                        descr="15% (150,000,000 MCLSH)"
                     />
 
                     <TokenomicsCard
                         cardNum="3"
                         name="Reserve Fund"
-                        descr="10% (55,554,764 MCLSH)"
+                        descr="10% (100,000,000 MCLSH)"
                     />
 
                     <TokenomicsCard
                         cardNum="4"
                         name="Liquidity"
-                        descr="25% (138,886,911 MCLSH)"
+                        descr="25% (250,000,000 MCLSH)"
                     />
 
                     <TokenomicsCard
                         cardNum="5"
                         name="Community and Marketing"
-                        descr="20% (111,109,529 MCLSH)"
+                        descr="20% (200,000,000 MCLSH)"
                     />
 
                     <TokenomicsCard
                         cardNum="6"
                         name="Rewards and Airdrops"
-                        descr="10% (55,554,764 MCLSH)"
+                        descr="10% (100,000,000 MCLSH)"
                     />
 
                     <div></div>
                     <TokenomicsCard
                         cardNum="7"
                         name="DeFi and Gaming Bonuses"
-                        descr="10% (55,554,764 MCLSH)"
+                        descr="10% (100,000,000 MCLSH)"
                     />
 
                     <motion.div variants={fadeIn("down", 0.2)}

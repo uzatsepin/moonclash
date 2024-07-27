@@ -165,12 +165,14 @@ export default function Footer() {
                 className="mt-32">
                 <div className="flex flex-col justify-center items-center">
                     <div>
-                        <Image
-                            src="/logo.svg"
-                            width={dimensions.width}
-                            alt="LOGO"
-                            height={dimensions.height}
-                        />
+                        <a href="#header">
+                            <Image
+                                src="/logo.svg"
+                                width={dimensions.width}
+                                alt="LOGO"
+                                height={dimensions.height}
+                            />
+                        </a>
                     </div>
                     <div className="flex items-center gap-6 mt-10">
                         <SocialItem

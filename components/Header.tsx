@@ -26,7 +26,7 @@ export default function Header() {
     }, []);
 
     return (
-        <header>
+        <header id="header">
             <BlurryBlob
                 className="rounded-xl opacity-60 -top-14 -left-14 z-20 hidden lg:block"
                 firstBlobColor="bg-[#E95141]"

@@ -5,6 +5,7 @@ import { TypewriterEffectSmooth } from "./ui/typewriter-effect";
 import { motion } from "framer-motion";
 import { fadeIn } from "@/libs/variants";
 import BlurryBlob from "./animata/background/blurry-blob";
+import HeroButton from "./Others/HeroButton";
 
 export default function Hero() {
     const mainText = [
@@ -35,11 +36,11 @@ export default function Hero() {
                         </p>
                     </div>
                     <div className="flex items-center gap-4 mt-5 lg:mt-24 justify-center lg:justify-normal">
-                        <PrimaryButton text="Buy" />
+                        <HeroButton text="buy" link="https://pump.fun/5nxYYE2ADShm6nELhwTKkdz3kuZBvgtgmSHWFYipump"/>
 
-                        <div className="py-[9px] px-[30px] lg:py-[17px] lg:px-[60px] flex items-center justify-center font-semibold text-[16px] lg:text-4xl leading-[20px] lg:leading-[44px] uppercase text-gray rounded-full border-[3px] border-[#A32F30] hover:bg-[#E95141] cursor-pointer transition-all duration-300">
+                        <a href="https://t.me/moonclash_coin" className="py-[9px] px-[30px] lg:py-[17px] lg:px-[60px] flex items-center justify-center font-semibold text-[16px] lg:text-4xl leading-[20px] lg:leading-[44px] uppercase text-gray rounded-full border-[3px] border-[#A32F30] hover:bg-[#E95141] cursor-pointer transition-all duration-300">
                             Join community
-                        </div>
+                        </a>
                     </div>
                 </motion.div>
                 <motion.div
